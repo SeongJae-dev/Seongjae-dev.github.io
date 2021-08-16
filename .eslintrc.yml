@@ -65,6 +65,7 @@ rules:
   react/destructuring-assignment: 0
 
   react-hooks/rules-of-hooks: error
+  linebreak-style: 0
 
 globals:
   document: true
