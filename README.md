@@ -1,3 +1,3 @@
 
-[Blog](https://seongjae-dev.github.io/, "Seongjae-dev")
+[Blog](https://seongjae-dev.github.io, "Seongjae-dev")
 
